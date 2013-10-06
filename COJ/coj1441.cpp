@@ -19,6 +19,11 @@ int main(){
 
         sc = sqrt(pow(l[1],2)+pow(l[0],2));
 
+        if (l[0] == 0 || l[1] == 0){
+            cout<<"wrong"<<endl;
+            return 0;
+        }
+
         if (l[2] == sc)
             cout<<"right"<<endl;
         else
