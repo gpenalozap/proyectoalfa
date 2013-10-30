@@ -2,23 +2,32 @@
 #include<cmath>
 
 int main(){
-    int x, i;
+    int i;
+    float x;
     float div;
     while (1){
-        scanf("%d", &x);
+        scanf("%f", &x);
+
         if (x == 0)
             break;
-        if (x == 1)
-        {
-            printf("32\n");
-        }
-        else
-            for (i = 2 ; i <= x ; i++){
-                div = log(x) / log(i);
-                if (div-trunc(div) == 0)
+
+        if (x < 0)
+            x = -x;
+        div = floor(log(x)/log(2.0));
+        for (; div >0 ; div -=1.0){
+            float t = pow(x, 1/div);
+            if( fabs( t - round( t ) ) < 1e-5 ) {
+                if( x > 0.0 )
                     break;
+                else
+                    if( int( div + 1e-5 ) % 2 )
+                        break;
             }
-        printf("%d\n", int(div));
+
+        }
+        printf("%.0f\n", div);
     }
     return 0;
 }
+
+
