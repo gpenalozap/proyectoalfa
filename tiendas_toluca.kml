@@ -1,0 +1,1780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="tiendas_toluca" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>tiendas_toluca</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle000">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>EKT.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle001">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>EKT.jpg</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>tiendas_toluca</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>6693 Ba BDR Toluca 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6693 Ba BDR Toluca 1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>6693 Ba BDR Toluca 1</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Ba BDR Toluca 1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.653375,19.291978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>1203 Mega Toluca</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1203 Mega Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>1203 Mega Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega Toluca</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.65417600000001,19.289371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>2074 EKT Temoaya Edo Mexico</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2074 EKT Temoaya Edo Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>2074 EKT Temoaya Edo Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Temoaya Edo Mexico</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.59428600000001,19.468337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>2081 EKT Toluca Plaza Santini</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2081 EKT Toluca Plaza Santini</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>2081 EKT Toluca Plaza Santini</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Toluca Plaza Santini</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.59167000000001,19.350754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>2765 Mega Toluca Independencia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2765 Mega Toluca Independencia</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>2765 Mega Toluca Independencia</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega Toluca Independencia</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.65261200000001,19.291976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>4338 EKT San Pablo Autopan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4338 EKT San Pablo Autopan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>4338 EKT San Pablo Autopan</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT San Pablo Autopan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.643147,19.352963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>6562 EKT San Pedro Totoltepec</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6562 EKT San Pedro Totoltepec</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>6562 EKT San Pedro Totoltepec</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT San Pedro Totoltepec</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.585628,19.310397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>8501 EKT Xonacatlan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>8501 EKT Xonacatlan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>8501 EKT Xonacatlan</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Xonacatlan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.52981200000002,19.402274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>9673 Mega Elektra San Juan Buenavista Toluca</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9673 Mega Elektra San Juan Buenavista Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>9673 Mega Elektra San Juan Buenavista Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega Elektra San Juan Buenavista Toluca</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.627898,19.301739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>8594 SYR Toluca 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>8594 SYR Toluca 1</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>8594 SYR Toluca 1</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>SYR Toluca 1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.655365,19.291668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>8620 SYR Toluca</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>8620 SYR Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>8620 SYR Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>SYR Toluca</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.65451099999999,19.289338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>2045 EKT Ocoyoacac</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2045 EKT Ocoyoacac</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>2045 EKT Ocoyoacac</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Ocoyoacac</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.460533,19.272169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>3175 Mega Toluca Mercado Juarez</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>3175 Mega Toluca Mercado Juarez</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>3175 Mega Toluca Mercado Juarez</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega Toluca Mercado Juarez</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.64183400000002,19.280603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>5649 Mega Metepec</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>5649 Mega Metepec</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>5649 Mega Metepec</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega Metepec</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.59456599999999,19.282299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>6113 EKT Edo Mex Plaza Lerma</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6113 EKT Edo Mex Plaza Lerma</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>6113 EKT Edo Mex Plaza Lerma</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Edo Mex Plaza Lerma</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.51528700000002,19.28545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>6122 EKT Mexicaltzingo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6122 EKT Mexicaltzingo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>6122 EKT Mexicaltzingo</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Mexicaltzingo</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.585517,19.208035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>631 Mega San Mateo Atenco</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>631 Mega San Mateo Atenco</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>631 Mega San Mateo Atenco</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega San Mateo Atenco</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.52958200000001,19.265324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>8780 Toluca 2 Tollocan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>8780 Toluca 2 Tollocan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>8780 Toluca 2 Tollocan</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Toluca 2 Tollocan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.644081,19.278029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>9484 Mega Elektra Plaza La Pila Metepec</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>9484 Mega Elektra Plaza La Pila Metepec</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>9484 Mega Elektra Plaza La Pila Metepec</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega Elektra Plaza La Pila Metepec</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.598381,19.257371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>2025 EKT Toluca Heriberto Enriquez</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2025 EKT Toluca Heriberto Enriquez</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>2025 EKT Toluca Heriberto Enriquez</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Toluca Heriberto Enriquez</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.644901,19.262267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>2075 EKT Zinacantepec A Lopez Mateos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>2075 EKT Zinacantepec A Lopez Mateos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>2075 EKT Zinacantepec A Lopez Mateos</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Zinacantepec A Lopez Mateos</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.698217,19.288878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>4412 EKT El Seminario Toluca</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4412 EKT El Seminario Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>4412 EKT El Seminario Toluca</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT El Seminario Toluca</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.67340799999998,19.266381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>5878 EKT Almoloya De Juarez</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>5878 EKT Almoloya De Juarez</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>5878 EKT Almoloya De Juarez</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Almoloya De Juarez</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.760037,19.370829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>592 Mega Zinacantepec</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>592 Mega Zinacantepec</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>592 Mega Zinacantepec</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>Mega Zinacantepec</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.73430899999998,19.288398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>6108 EKT Edo Mex Capultitlan</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>6108 EKT Edo Mex Capultitlan</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUCURSAL</td>
+
+<td>6108 EKT Edo Mex Capultitlan</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE_TIE</td>
+
+<td>EKT Edo Mex Capultitlan</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-99.663859,19.248546,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
